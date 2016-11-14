@@ -1,7 +1,7 @@
 ---
 title: Deeplearning4j快速入门指南
 layout: zh-default
-redirect_from: /quickstart
+redirect_from: /zh-quickstart
 ---
 
 <!-- Begin Inspectlet Embed Code -->
