@@ -1,7 +1,7 @@
 ---
 title: "关于我们"
 layout: zh-default
-redirect_from: /zh-about
+redirect_from: /about
 ---
 
 # 关于我们
