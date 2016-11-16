@@ -189,7 +189,7 @@ LSTM将信息存放在递归网络正常信息流之外的门控单元中。这�
 * 最后，记住数据标准化、MSE损失函数 + 恒等激活函数用于回归、[Xavier权重初始化](../glossary.html#xavier)
 
 ## <a name="beginner">其他基础教程</a>
-* [通过DL4J使用递归神经网络](cn/usingrnns)
+* [通过DL4J使用递归神经网络](usingrnns)
 * [受限玻尔兹曼机](cn/restrictedboltzmannmachine)
 * [本征向量、协方差、主成分分析（PCA）和熵](cn/eigenvector)
 * [Word2vec](cn/word2vec)
