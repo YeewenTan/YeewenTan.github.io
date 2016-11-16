@@ -26,7 +26,7 @@ redirect_from: /zh-lstm
 由于递归网络拥有一种特定的记忆模式，而记忆也是人类的基本能力之一，所以下文会时常将递归网络与人脑的记忆活动进行类比。<sup>[1](#one)</sup>
 
 <p align="center">
-<a href="zh-quickstart" class="btn btn-custom" onClick="ga('send', 'event', ‘quickstart', 'click');">快速入门指南</a>
+<a href="cn/quickstart" class="btn btn-custom" onClick="ga('send', 'event', ‘quickstart', 'click');">快速入门指南</a>
 </p>
 
 ## <a name="feedforward">前馈网络回顾</a>

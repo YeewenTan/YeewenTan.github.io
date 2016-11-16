@@ -6,12 +6,12 @@ redirect_from: /zh-gettingstarted
 
 # DL4J完全安装指南
 
-本页在[快速入门指南](zh-quickstart)的基础上介绍更多细节和一些问题解决步骤。建议您在查看本页内容之前先阅读快速入门指南，如此上手DL4J会比较容易。
+本页在[快速入门指南](cn/quickstart)的基础上介绍更多细节和一些问题解决步骤。建议您在查看本页内容之前先阅读快速入门指南，如此上手DL4J会比较容易。
 
 完全安装包括多个步骤。如果您希望提问或反馈，我们强烈建议您加入我们的[Gitter线上交流群](https://gitter.im/deeplearning4j/deeplearning4j)，便于我们引导您进行安装。若您不乐意在群里发言，或要力求无师自通，也欢迎加入交流群默默潜水学习。此外，如果您是初次接触深度学习，我们还准备了一份[初学者学习计划](../deeplearningforbeginners)。
 
 
-在完成[快速入门指南](zh-quickstart)中的步骤之后，请阅读以下内容：
+在完成[快速入门指南](cn/quickstart)中的步骤之后，请阅读以下内容：
 
 1.加速CPU定型：安装原生BLAS库
     * <a href="#linux">Linux</a>
@@ -34,7 +34,7 @@ redirect_from: /zh-gettingstarted
 
 ## <a name="walk">DL4J示例：详细过程说明</a>
 
-本节提供比[快速入门指南](zh-quickstart)更详尽的安装步骤介绍。
+本节提供比[快速入门指南](cn/quickstart)更详尽的安装步骤介绍。
 
 * 如果已有Git，可在命令行中输入：
 
@@ -165,8 +165,8 @@ Michael Depies撰写了[在Eclipse上安装Deeplearning4j](https://depiesml.word
 
 ### <a name="next">后续步骤：鸢尾花示例与神经网络构建</a>
 
-欲开始创建神经网络，请参阅[神经网络简介](zh-neuralnet-overview)获得更多信息。
+欲开始创建神经网络，请参阅[神经网络简介](cn/neuralnet-overview)获得更多信息。
 
-请参阅[MNIST教程](zh-mnist-tutorial)，学习如何加速运行，也可阅读[受限玻尔兹曼机介绍](zh-restrictedboltzmannmachine)，了解*深度置信网络*的基本机制。
+请参阅[MNIST教程](cn/mnist-tutorial)，学习如何加速运行，也可阅读[受限玻尔兹曼机介绍](cn/restrictedboltzmannmachine)，了解*深度置信网络*的基本机制。
 
 请根据[ND4J入门指南](http://nd4j.org/getstarted.html)上的说明创建新项目，并将必要的[POM依赖项](http://nd4j.org/dependencies.html)包括在内。

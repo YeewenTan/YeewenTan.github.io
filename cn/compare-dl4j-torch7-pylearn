@@ -9,7 +9,7 @@ redirect_from: /zh-compare-dl4j-torch7-pylearn
 Deeplearning4j不是第一个开源的深度学习项目，但与此前的其他项目相比，DL4J在编程语言和宗旨两方面都独具特色。DL4J是基于JVM、聚焦行业应用且提供商业支持的**分布式深度学习框架**，其宗旨是在合理的时间内解决各类涉及大量数据的问题。它与Hadoop和Spark集成，可使用任意数量的GPU或CPU运行，而且发生任何问题都可以[联系服务热线](http://www.skymind.io/contact)。
 
 <p align="center">
-<a href="zh-quickstart" class="btn btn-custom" onClick="ga('send', 'event', 'quickstart', 'click');">Deeplearning4j入门教程</a>
+<a href="cn/quickstart" class="btn btn-custom" onClick="ga('send', 'event', 'quickstart', 'click');">Deeplearning4j入门教程</a>
 </p>
 
 目录
@@ -148,7 +148,7 @@ Scala、Clojure、Python和Ruby等其他通行的语言也可以原生支持Java
 
 我们在打造Deeplearning4j和ND4J的过程中特别关注[Scala](../scala)，因为我们认为Scala具有成为数据科学主导语言的潜力。用[Scala API](http://nd4j.org/scala.html)为JVM编写数值运算、向量化和深度学习库可以帮助整个群体向实现这一目标迈进。
 
-关于DL4J与其他框架的不同之处，也许只需要[尝试一下](zh-quickstart)就能有深入的体会。
+关于DL4J与其他框架的不同之处，也许只需要[尝试一下](cn/quickstart)就能有深入的体会。
 
 ### <a name="ml">机器学习框架</a>
 
@@ -161,13 +161,13 @@ Scala、Clojure、Python和Ruby等其他通行的语言也可以原生支持Java
 
 ### <a name="tutorial">Deeplearning4j教程</a>
 
-* [深度神经网络简介](zh-neuralnet-overview)
-* [卷积网络教程](zh-convolutionalnets)
-* [LSTM和递归网络教程](zh-lstm)
-* [通过DL4J使用递归网络](zh-usingrnns)
+* [深度神经网络简介](cn/neuralnet-overview)
+* [卷积网络教程](cn/convolutionalnets)
+* [LSTM和递归网络教程](cn/lstm)
+* [通过DL4J使用递归网络](cn/usingrnns)
 * [MNIST中的深度置信网络](../deepbeliefnetwork)
-* [用Canova定制数据加工管道](zh-image-data-pipeline)
-* [受限玻尔兹曼机](zh-restrictedboltzmannmachine)
-* [本征向量、PCA和熵](zh-eigenvector)
+* [用Canova定制数据加工管道](cn/image-data-pipeline)
+* [受限玻尔兹曼机](cn/restrictedboltzmannmachine)
+* [本征向量、PCA和熵](cn/eigenvector)
 * [深度学习词汇表](../glossary.html)
-* [Word2vec、Doc2vec和GloVe](zh-word2vec)
+* [Word2vec、Doc2vec和GloVe](cn/word2vec)

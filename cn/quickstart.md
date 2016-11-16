@@ -155,9 +155,9 @@ $ git clone git://git.kernel.org/pub/scm/git/git.git
     * [DL4J线上交流群](https://gitter.im/deeplearning4j/deeplearning4j)是有关DL4J的主要交流渠道。大多数人都在此出没。
     * [调试帮助](https://gitter.im/deeplearning4j/deeplearning4j/tuninghelp)面向刚开始接触神经网络的用户。初学者请访问这个交流群！
     * [早期用户交流群](https://gitter.im/deeplearning4j/deeplearning4j/earlyadopters)面向那些帮助我们检查并改进新版本的用户。注意：这个群供经验更丰富的用户交流。
-2. 阅读[深度神经网络简介](zh-neuralnet-overview)或其他详细教程。
-3. 查看更详细的[完全安装指南](zh-gettingstarted)。
-4. 浏览[DL4J文档](zh-documentation)。
+2. 阅读[深度神经网络简介](cn/neuralnet-overview)或其他详细教程。
+3. 查看更详细的[完全安装指南](cn/gettingstarted)。
+4. 浏览[DL4J文档](cn/documentation)。
 
 
 ### 疑难解答
