@@ -443,7 +443,7 @@ WordVectors wordVectors = WordVectorSerializer.loadTxtVectors(new File("words.tx
 
 Andreas Klintberg对Deeplearning4j实现的Word2vec进行了瑞典语的定型，并且[在Medium上记录了完整的过程](https://medium.com/@klintcho/training-a-word2vec-model-for-swedish-e14b15be6cb)。
 
-Word2vec特别适合为信息检索和QA系统准备基于文本的数据，DL4J用[深度自动编码器](./deepautoencoder.html)实现这一功能。
+Word2vec特别适合为信息检索和QA系统准备基于文本的数据，DL4J用[深度自动编码器](../deepautoencoder.html)实现这一功能。
 
 市场营销人员可能会通过确定产品之间的关系来打造推荐引擎。调查人员可能会依靠分析社交图谱来寻找某一个群体的成员，或者确定这些人与特定地点或资助者之间的其他关系。
 
