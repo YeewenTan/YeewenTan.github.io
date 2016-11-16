@@ -190,13 +190,13 @@ LSTM将信息存放在递归网络正常信息流之外的门控单元中。这�
 
 ## <a name="beginner">其他基础教程</a>
 * [通过DL4J使用递归神经网络](usingrnns)
-* [受限玻尔兹曼机](cn/restrictedboltzmannmachine)
-* [本征向量、协方差、主成分分析（PCA）和熵](cn/eigenvector)
-* [Word2vec](cn/word2vec)
-* [深度神经网络简介](cn/neuralnet-overview)
-* [神经网络与回归分析](linear-regression)
-* [卷积网络教程](cn/convolutionalnets)
-* [深度学习应用案例](cn/use_cases)
+* [受限玻尔兹曼机](restrictedboltzmannmachine)
+* [本征向量、协方差、主成分分析（PCA）和熵](eigenvector)
+* [Word2vec](word2vec)
+* [深度神经网络简介](neuralnet-overview)
+* [神经网络与回归分析](../linear-regression)
+* [卷积网络教程](convolutionalnets)
+* [深度学习应用案例](use_cases)
 
 ## <a name="resources">资源</a>
 * [DRAW:A Recurrent Neural Network For Image Generation](http://arxiv.org/pdf/1502.04623v2.pdf); (attention models)
