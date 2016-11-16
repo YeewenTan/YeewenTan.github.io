@@ -26,12 +26,12 @@ redirect_from: /zh-lstm
 由于递归网络拥有一种特定的记忆模式，而记忆也是人类的基本能力之一，所以下文会时常将递归网络与人脑的记忆活动进行类比。<sup>[1](#one)</sup>
 
 <p align="center">
-<a href="cn/quickstart" class="btn btn-custom" onClick="ga('send', 'event', ‘quickstart', 'click');">快速入门指南</a>
+<a href="quickstart" class="btn btn-custom" onClick="ga('send', 'event', ‘quickstart', 'click');">快速入门指南</a>
 </p>
 
 ## <a name="feedforward">前馈网络回顾</a>
 
-要理解递归网络，首先需要了解[前馈网络](cn/restrictedboltzmannmachine)的基础知识。这两种网络的名字都来自于它们通过一系列网络节点数学运算来传递信息的方式。前馈网络将信息径直向前递送（从不返回已经过的节点），而递归网络则将信息循环传递。
+要理解递归网络，首先需要了解[前馈网络](restrictedboltzmannmachine)的基础知识。这两种网络的名字都来自于它们通过一系列网络节点数学运算来传递信息的方式。前馈网络将信息径直向前递送（从不返回已经过的节点），而递归网络则将信息循环传递。
 
 在前馈网络中，样例输入网络后被转换为一项输出；在进行有监督学习时，输出为一个标签。也就是说，前馈网络将原始数据映射到类别，识别出信号的模式，例如一张输入图像应当给予“猫”还是“大象”的标签。
 
