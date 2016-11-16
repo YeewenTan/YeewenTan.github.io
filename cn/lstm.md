@@ -31,7 +31,7 @@ redirect_from: /zh-lstm
 
 ## <a name="feedforward">前馈网络回顾</a>
 
-要理解递归网络，首先需要了解[前馈网络](zh-restrictedboltzmannmachine)的基础知识。这两种网络的名字都来自于它们通过一系列网络节点数学运算来传递信息的方式。前馈网络将信息径直向前递送（从不返回已经过的节点），而递归网络则将信息循环传递。
+要理解递归网络，首先需要了解[前馈网络](cn/restrictedboltzmannmachine)的基础知识。这两种网络的名字都来自于它们通过一系列网络节点数学运算来传递信息的方式。前馈网络将信息径直向前递送（从不返回已经过的节点），而递归网络则将信息循环传递。
 
 在前馈网络中，样例输入网络后被转换为一项输出；在进行有监督学习时，输出为一个标签。也就是说，前馈网络将原始数据映射到类别，识别出信号的模式，例如一张输入图像应当给予“猫”还是“大象”的标签。
 
@@ -189,14 +189,14 @@ LSTM将信息存放在递归网络正常信息流之外的门控单元中。这�
 * 最后，记住数据标准化、MSE损失函数 + 恒等激活函数用于回归、[Xavier权重初始化](../glossary.html#xavier)
 
 ## <a name="beginner">其他基础教程</a>
-* [通过DL4J使用递归神经网络](zh-usingrnns)
-* [受限玻尔兹曼机](zh-restrictedboltzmannmachine)
-* [本征向量、协方差、主成分分析（PCA）和熵](zh-eigenvector)
-* [Word2vec](zh-word2vec)
-* [深度神经网络简介](zh-neuralnet-overview)
+* [通过DL4J使用递归神经网络](cn/usingrnns)
+* [受限玻尔兹曼机](cn/restrictedboltzmannmachine)
+* [本征向量、协方差、主成分分析（PCA）和熵](cn/eigenvector)
+* [Word2vec](cn/word2vec)
+* [深度神经网络简介](cn/neuralnet-overview)
 * [神经网络与回归分析](linear-regression)
-* [卷积网络教程](zh-convolutionalnets)
-* [深度学习应用案例](zh-use_cases)
+* [卷积网络教程](cn/convolutionalnets)
+* [深度学习应用案例](cn/use_cases)
 
 ## <a name="resources">资源</a>
 * [DRAW:A Recurrent Neural Network For Image Generation](http://arxiv.org/pdf/1502.04623v2.pdf); (attention models)
