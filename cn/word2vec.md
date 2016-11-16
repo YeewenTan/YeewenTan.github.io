@@ -481,14 +481,14 @@ Deeplearning4j有一个叫做[SequenceVectors](https://github.com/deeplearning4j
 
 * [使用Word2vec和RNN的DL4J文本分类示例](https://github.com/deeplearning4j/dl4j-examples/blob/master/src/main/java/org/deeplearning4j/examples/recurrent/word2vecsentiment/Word2VecSentimentRNN.java)
 * [使用段落向量的DL4J文本分类示例](https://github.com/deeplearning4j/dl4j-examples/blob/master/src/main/java/org/deeplearning4j/examples/recurrent/word2vecsentiment/Word2VecSentimentRNN.java)
-* [用Deeplearning4j实现的Doc2vec，或称段落向量](./doc2vec.html)
-* [思维向量、自然语言处理与人工智能的未来](./thoughtvectors.html)
+* [用Deeplearning4j实现的Doc2vec，或称段落向量](../doc2vec.html)
+* [思维向量、自然语言处理与人工智能的未来](../thoughtvectors.html)
 * [Quora：Word2vec的工作原理是什么？](http://www.quora.com/How-does-word2vec-work)
 * [Quora：有哪些有趣的Word2vec结果？](http://www.quora.com/Word2vec/What-are-some-interesting-Word2Vec-results/answer/Omer-Levy)
 * [Word2Vec简介](http://www.folgertkarsdorp.nl/word2vec-an-introduction/)；Folgert Karsdorp
 * [Mikolov的Word2vec原始代码@Google](https://code.google.com/p/word2vec/)
 * [word2vec解析：推导Mikolov等人的负样本取样词向量法](http://arxiv.org/pdf/1402.3722v1.pdf)；Yoav Goldberg和Omer Levy
-* [词袋与词频－逆文档频率（TF-IDF）](./bagofwords-tf-idf.html)
+* [词袋与词频－逆文档频率（TF-IDF）](../bagofwords-tf-idf.html)
 
 ### <a name="beginner">其他Deeplearning4j教程</a>
 * [神经网络简介](neuralnet-overview)
